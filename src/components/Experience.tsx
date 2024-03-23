@@ -1,5 +1,4 @@
-
-"use client";
+'use client'
 import React from "react";
 import { DirectionAwareHover } from "./ui/direction-aware-hover";
 
@@ -15,7 +14,7 @@ function Experience() {
         <p className="font-bold text-xl">Intern, USIP(DTU)</p>
         <p className="font-bold text-xl">University Students Internship Program</p>
         <p className="font-bold text-xl">(March 2023-May 2023)</p>
-        <p className="font-normal text-sm">Developed Login Page and Application Form for Hostel's Website using ReactJS</p>
+        <p className="font-normal text-sm">Developed Login Page and Application Form for Hostel Website using ReactJS</p>
       </DirectionAwareHover>
       </div>
     </div>
