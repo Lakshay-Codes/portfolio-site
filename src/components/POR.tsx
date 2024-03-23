@@ -12,7 +12,7 @@ const PORs = [
     quote:
     'During one semester, I represented and advocated for my 75 classmates, facilitating effective communication between students and faculty while offering guidance and mentorship throughout that time.',
     name: 'Class Representative',
-    title: 'Mathematical Economics (HU 308 ME) (Semester 5)',
+    title: 'Mathematical Economics (HU 308 ME) (Semester 6)',
   },
   {
     quote:
@@ -36,7 +36,7 @@ const PORs = [
       quote:
         'Supported and advocated for my 75 peers throughout one semester, ensuring seamless communication between students and faculty, while providing guidance and mentorship during that period.',
       name: 'Class Representative',
-      title: 'Object Oriented Software Design (OOSE E3 S2) (Semester 5)',
+      title: 'Object Oriented Software Design (OOSE E3 S2) (Semester 6)',
     },
   ];
 
