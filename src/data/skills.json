@@ -1,0 +1,35 @@
+{
+    "skills": [
+      {
+        "id": 1,
+        "title": "Programming languages (C++/C/Python/JS)",
+        "description": "Acquired fundamental knowledge of programming languages as a stepping stone to embark on my coding journey across diverse technological platforms."
+      },
+      {
+        "id": 2,
+        "title": "Databases Learnt (SQL/MongoDB)",
+        "description": "Gained proficiency in SQL and MongoDB as the foundation for venturing into database management across different technological landscapes."
+      },
+      {
+        "id": 3,
+        "title": "Core Subjects (OOPS/DBMS/OS/CN)",
+        "description": "Attained competence in Operating Systems, Object-Oriented Programming, Database Management Systems, Computer Networks, and Computer Architecture, laying the groundwork for comprehensive understanding and application across various domains of technology."
+      },
+      {
+        "id": 4,
+        "title": "VCS (Git)",
+        "description": "Developed proficiency in utilizing Git, laying a solid foundation for efficient version control and collaborative software development across various projects and tech environments."
+      },
+      {
+        "id": 5,
+        "title": "Data Structures and Algorithms",
+        "description": "Proficient in Data Structures and Algorithms, actively engaged as a participant on Codeforces, having solved over 1000+ problems on LeetCode."
+      },
+      {
+        "id": 6,
+        "title": "Web Development",
+        "description": "Constructed various projects in web development utilizing a comprehensive tech stack including Next.js and React.js for frontend development, while integrating backend functionality with HTML, CSS, and JavaScript, showcasing proficiency across the full spectrum of web development."
+      }
+    ]
+  }
+  
