@@ -16,7 +16,7 @@ const PORs = [
   },
   {
     quote:
-      'I mentor and monitor the progress and performance of 15 students assigned to me, under the co-founder of VMC, Mr. Manmohan Gupta during the corona outbreak.This has been introduced to compensate the loss of personal interaction of students with their teachers.',
+      'I mentored and monitored the progress and performance of 15 students assigned to me, under the co-founder of VMC, Mr. Manmohan Gupta during the corona outbreak.This has been introduced to compensate the loss of personal interaction of students with their teachers.',
     name: 'Education Mentor',
     title: 'VidyaMandir Classes (2022-23)',
   },
