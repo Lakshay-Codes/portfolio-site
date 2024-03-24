@@ -23,6 +23,14 @@
         "badge": "ReactJS",
         "image": "https://res.cloudinary.com/dpslrv5a3/image/upload/v1711199428/arq5bsb3imyh4f5lcxhx.png", 
         "link": "https://textutils-word-counter.netlify.app/"
+      },
+      { 
+        "id": 4,
+        "title": "Password Generator",
+        "description": "Password Generator built with React. Accepts length input, generates password. Customizable for security.",
+        "badge": "ReactJS",
+        "image": "https://res.cloudinary.com/dpslrv5a3/image/upload/v1711271547/wuekepfkmsuux34buoq3.png", 
+        "link": "https://lakshaypasswordgenerator.netlify.app/"
       }
     ]
   }
