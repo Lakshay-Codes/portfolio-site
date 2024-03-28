@@ -52,7 +52,7 @@ function HeroSection() {
             COE DTU (2025 batch), Delhi Technological University
             </p>
             <p
-            className="mt-4 font-normal text-base sm:text-sm md:text-sm text-neutral-300 max-w-sm mx-auto"
+            className="mt-4 mb-4 font-normal text-base sm:text-sm md:text-sm text-neutral-300 max-w-sm mx-auto"
             >
 Motivated by a deep curiosity for technology, I thrive in computer engineering, consistently achieving top grades. Skilled in programming and full-stack web development, I approach challenges with creativity and precision. Committed to continuous learning, I strive to innovate within the dynamic realm of computer engineering.            
             </p>
