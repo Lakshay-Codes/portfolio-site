@@ -8,21 +8,21 @@
         "image": "https://res.cloudinary.com/dpslrv5a3/image/upload/v1711198498/lfmhrgwqylb6oohy5ztn.png", 
         "link": "/"
       },
-      { 
+      {
         "id": 2,
+        "title": "NotesNation",
+        "description": "Project Notesnation is a full-stack web application built with ReactJS, ExpressJS, and MongoDB, ensuring secure user authentication with bcrypt.js. It offers real-time CRUD operations and features a dark mode option for enhanced user experience, providing personalized note access.",
+        "badge": "ReactJS",
+        "image": "https://res.cloudinary.com/dpslrv5a3/image/upload/v1711807346/azwcd8zslrelhppzv9ci.png", 
+        "link": "https://notesnation.vercel.app/"
+      },
+      { 
+        "id": 3,
         "title": "Google Searcher",
         "description": "Successfully implemented immediate page redirection with React.js, eradicating the previous refresh delay. Built a React application with a Google Search bar clone, seamlessly integrating Google's Developers API for accurate web search results, ensuring swift navigation and precise information retrieval.",
         "badge": "ReactJS",
         "image": "https://res.cloudinary.com/dpslrv5a3/image/upload/v1711198944/c7ofkw6ae79aeqtbmvvr.png", 
         "link": "https://googlesearchapp.netlify.app/"
-      },
-      { 
-        "id": 3,
-        "title": "Text Utils",
-        "description": "Text Utils is a versatile online tool offering functionalities such as text analysis, word count, and dark mode option. Users can input text for analysis, with the website providing word and character counts, along with an estimated reading time. Dark mode enhances usability, ensuring a comfortable browsing experience.",
-        "badge": "ReactJS",
-        "image": "https://res.cloudinary.com/dpslrv5a3/image/upload/v1711199428/arq5bsb3imyh4f5lcxhx.png", 
-        "link": "https://textutils-word-counter.netlify.app/"
       },
       { 
         "id": 4,
@@ -31,6 +31,14 @@
         "badge": "ReactJS",
         "image": "https://res.cloudinary.com/dpslrv5a3/image/upload/v1711271547/wuekepfkmsuux34buoq3.png", 
         "link": "https://lakshaypasswordgenerator.netlify.app/"
+      },
+      { 
+        "id": 5,
+        "title": "Text Utils",
+        "description": "Text Utils is a versatile online tool offering functionalities such as text analysis, word count, and dark mode option. Users can input text for analysis, with the website providing word and character counts, along with an estimated reading time. Dark mode enhances usability, ensuring a comfortable browsing experience.",
+        "badge": "ReactJS",
+        "image": "https://res.cloudinary.com/dpslrv5a3/image/upload/v1711199428/arq5bsb3imyh4f5lcxhx.png", 
+        "link": "https://textutils-word-counter.netlify.app/"
       }
     ]
   }
