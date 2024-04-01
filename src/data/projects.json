@@ -2,6 +2,14 @@
     "projects": [
       { 
         "id": 1,
+        "title": "CampusFindDTU",
+        "description": "Developed CampusFindDTU, a full-stack lost and found posting website using React with state management (RTK) and Appwrite backend, capable of serving 75000 active users.",
+        "badge": "FullStack",
+        "image": "https://res.cloudinary.com/dpslrv5a3/image/upload/v1712006720/lybjetab5lvubguomtwu.png", 
+        "link": "https://campus-find-dtu.vercel.app/"
+      },
+      { 
+        "id": 2,
         "title": "Portfolio Site",
         "description": "My portfolio website is where I present my work, skills, and achievements. It features projects, education, and positions of responsibility, along with contact details. Visually appealing and user-friendly, it is my platform to showcase expertise and attract opportunities in my field.",
         "badge": "NextJS",
@@ -9,7 +17,7 @@
         "link": "/"
       },
       {
-        "id": 2,
+        "id": 3,
         "title": "NotesNation",
         "description": "Project Notesnation is a full-stack web application built with ReactJS, ExpressJS, and MongoDB, ensuring secure user authentication with bcrypt.js. It offers real-time CRUD operations and features a dark mode option for enhanced user experience, providing personalized note access.",
         "badge": "ReactJS",
@@ -17,7 +25,7 @@
         "link": "https://notesnation.vercel.app/"
       },
       { 
-        "id": 3,
+        "id": 4,
         "title": "Google Searcher",
         "description": "Successfully implemented immediate page redirection with React.js, eradicating the previous refresh delay. Built a React application with a Google Search bar clone, seamlessly integrating Google's Developers API for accurate web search results, ensuring swift navigation and precise information retrieval.",
         "badge": "ReactJS",
@@ -25,7 +33,7 @@
         "link": "https://googlesearchapp.netlify.app/"
       },
       { 
-        "id": 4,
+        "id": 5,
         "title": "Password Generator",
         "description": "Password Generator built with React. Accepts length input, generates password. Customizable for security.",
         "badge": "ReactJS",
@@ -33,7 +41,7 @@
         "link": "https://lakshaypasswordgenerator.netlify.app/"
       },
       { 
-        "id": 5,
+        "id": 6,
         "title": "Text Utils",
         "description": "Text Utils is a versatile online tool offering functionalities such as text analysis, word count, and dark mode option. Users can input text for analysis, with the website providing word and character counts, along with an estimated reading time. Dark mode enhances usability, ensuring a comfortable browsing experience.",
         "badge": "ReactJS",
