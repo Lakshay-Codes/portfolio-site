@@ -4,7 +4,7 @@ import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
 import POR from "@/components/POR";
 import Education from "@/components/Education";
-import Experience from "@/components/Experience";
+// import Experience from "@/components/Experience";
 
 
 export default function Home() {
@@ -13,7 +13,7 @@ export default function Home() {
       <HeroSection />
       <Education />
       <POR />
-      <Experience />
+      {/* <Experience /> */}
       <Skills />
       <Footer />
     </main>

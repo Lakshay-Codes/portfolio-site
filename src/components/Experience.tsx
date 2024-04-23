@@ -10,11 +10,11 @@ function Experience() {
       <h2 className="text-3xl font-bold text-center mb-8 z-10">EXPERIENCE →</h2>
       </div>
       <div>
-      <DirectionAwareHover imageUrl="https://res.cloudinary.com/dpslrv5a3/image/upload/v1711191271/ffsytiplfw1bv135bgb0.jpg">
-        <p className="font-bold text-xl">Intern, USIP(DTU)</p>
-        <p className="font-bold text-xl">University Students Internship Program</p>
-        <p className="font-bold text-xl">(March 2023-May 2023)</p>
-        <p className="font-normal text-sm">Developed Login Page and Application Form for Hostel Website using ReactJS</p>
+      <DirectionAwareHover imageUrl="">
+        <p className="font-bold text-xl">Position, Programme Name</p>
+        <p className="font-bold text-xl">company</p>
+        <p className="font-bold text-xl">(Duration)</p>
+        <p className="font-normal text-sm">What u did</p>
       </DirectionAwareHover>
       </div>
     </div>
