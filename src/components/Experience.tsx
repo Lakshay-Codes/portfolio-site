@@ -7,7 +7,7 @@ function Experience() {
   return (
     <div className="h-[40rem] relative  flex items-center justify-center">
       <div>
-      <h2 className="text-3xl font-bold text-center mb-8 z-10">EXPERIENCE →</h2>
+      <h2 className="text-3xl text-white font-bold text-center mb-8 z-10">EXPERIENCE →</h2>
       </div>
       <div>
       <DirectionAwareHover imageUrl="https://res.cloudinary.com/dpslrv5a3/image/upload/v1711191271/ffsytiplfw1bv135bgb0.jpg">

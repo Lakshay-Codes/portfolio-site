@@ -43,7 +43,7 @@ function HeroSection() {
       <br/>
         <div className="p-4 relative z-10 w-full text-center" >
             <div className="flex flex-row items-center justify-center mb-0 w-full">
-            <TypewriterEffect className="text-center" words={words1}/>
+            <TypewriterEffect className="text-center text-2xl" words={words1}/>
             <AnimatedTooltip items={me} />
             </div>
             <p
